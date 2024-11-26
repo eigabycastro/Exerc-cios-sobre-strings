@@ -39,5 +39,4 @@ int main() {
     // Exibe a string sem os espaços no começo e no final
     printf("String sem espaços no início e no final: '%s'\n", str);
 
-    return 0;
 }
